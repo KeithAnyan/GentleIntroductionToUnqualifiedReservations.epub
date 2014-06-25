@@ -5,7 +5,7 @@
     <dc:title>A Gentle Introduction to Unqualified Reservations</dc:title>
     <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
     <dc:language>en</dc:language>
-    <dc:date opf:event="modification">2014-06-23</dc:date>
+    <dc:date opf:event="modification">2014-06-24</dc:date>
     <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
     <dc:contributor opf:role="edt">@jbboehr</dc:contributor>
     <meta content="0.7.4" name="Sigil version" />
@@ -29,6 +29,7 @@
     <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
     <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
     <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml" />
+    <item href="Images/Witches.jpg" id="Witches.jpg" media-type="image/jpeg" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="title.html" />
