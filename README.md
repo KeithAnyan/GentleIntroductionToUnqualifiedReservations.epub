@@ -2,6 +2,11 @@
 
 A series of essays by [Mencius Moldbug](http://unqualified-reservations.blogspot.com/)
 
+Download:
+[epub](http://keithanyan.github.io/GentleIntroductionToUnqualifiedReservations.epub/GentleIntroductionToUnqualifiedReservations.epub)
+[mobi](http://keithanyan.github.io/GentleIntroductionToUnqualifiedReservations.epub/GentleIntroductionToUnqualifiedReservations.mobi)
+[pdf](http://keithanyan.github.io/GentleIntroductionToUnqualifiedReservations.epub/GentleIntroductionToUnqualifiedReservations.pdf)
+
 Original Articles:
 * [part 1](http://unqualified-reservations.blogspot.com/2009/01/gentle-introduction-to-unqualified.html)
 * [part 2](http://unqualified-reservations.blogspot.com/2009/01/gentle-introduction-to-unqualified_15.html)
