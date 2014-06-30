@@ -22,19 +22,19 @@
       <navLabel>
         <text>A gentle introduction to Unqualified Reservations (part 2)</text>
       </navLabel>
-      <content src="Text/gentle-introduction-to-unqualified_15-p2.html"/>
+      <content src="Text/gentle-introduction-to-unqualified-p2.html"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>A gentle introduction to Unqualified Reservations (part 3)</text>
       </navLabel>
-      <content src="Text/gentle-introduction-to-unqualified_22-p3.html"/>
+      <content src="Text/gentle-introduction-to-unqualified-p3.html"/>
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
         <text>A gentle introduction to Unqualified Reservations (part 4)</text>
       </navLabel>
-      <content src="Text/gentle-introduction-to-unqualified_29-p4.html"/>
+      <content src="Text/gentle-introduction-to-unqualified-p4.html"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
@@ -46,7 +46,7 @@
       <navLabel>
         <text>A gentle introduction to Unqualified Reservations (part 6)</text>
       </navLabel>
-      <content src="Text/gentle-introduction-to-unqualified_19-p6.html"/>
+      <content src="Text/gentle-introduction-to-unqualified-p6.html"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
@@ -58,7 +58,7 @@
       <navLabel>
         <text>A gentle introduction to Unqualified Reservations (part 8)</text>
       </navLabel>
-      <content src="Text/gentle-introduction-to-unqualified_15-p8.html"/>
+      <content src="Text/gentle-introduction-to-unqualified-p8.html"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>

@@ -5,18 +5,19 @@
     <dc:title>A Gentle Introduction to Unqualified Reservations</dc:title>
     <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
     <dc:language>en</dc:language>
-    <dc:date opf:event="modification">2014-06-24</dc:date>
-    <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
-    <dc:contributor opf:role="edt">@jbboehr</dc:contributor>
+    <dc:date opf:event="modification">2014-06-29</dc:date>
+    <dc:date opf:event="publication">2009-01-08</dc:date>
+    <dc:contributor opf:role="trc">@jbboehr</dc:contributor>
+    <dc:source>http://moldbuggery.blogspot.com/</dc:source>
     <meta content="0.7.4" name="Sigil version" />
   </metadata>
   <manifest>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    <item href="Text/gentle-introduction-to-unqualified_15-p2.html" id="gentle-introduction-to-unqualified_15-p2.html" media-type="application/xhtml+xml" />
-    <item href="Text/gentle-introduction-to-unqualified_15-p8.html" id="gentle-introduction-to-unqualified_15-p8.html" media-type="application/xhtml+xml" />
-    <item href="Text/gentle-introduction-to-unqualified_19-p6.html" id="gentle-introduction-to-unqualified_19-p6.html" media-type="application/xhtml+xml" />
-    <item href="Text/gentle-introduction-to-unqualified_22-p3.html" id="gentle-introduction-to-unqualified_22-p3.html" media-type="application/xhtml+xml" />
-    <item href="Text/gentle-introduction-to-unqualified_29-p4.html" id="gentle-introduction-to-unqualified_29-p4.html" media-type="application/xhtml+xml" />
+    <item href="Text/gentle-introduction-to-unqualified-p2.html" id="gentle-introduction-to-unqualified-p2.html" media-type="application/xhtml+xml" />
+    <item href="Text/gentle-introduction-to-unqualified-p8.html" id="gentle-introduction-to-unqualified-p8.html" media-type="application/xhtml+xml" />
+    <item href="Text/gentle-introduction-to-unqualified-p6.html" id="gentle-introduction-to-unqualified-p6.html" media-type="application/xhtml+xml" />
+    <item href="Text/gentle-introduction-to-unqualified-p3.html" id="gentle-introduction-to-unqualified-p3.html" media-type="application/xhtml+xml" />
+    <item href="Text/gentle-introduction-to-unqualified-p4.html" id="gentle-introduction-to-unqualified-p4.html" media-type="application/xhtml+xml" />
     <item href="Text/gentle-introduction-to-unqualified-p1.html" id="gentle-introduction-to-unqualified-p1.html" media-type="application/xhtml+xml" />
     <item href="Text/gentle-introduction-to-unqualified-p5.html" id="gentle-introduction-to-unqualified-p5.html" media-type="application/xhtml+xml" />
     <item href="Text/gentle-introduction-to-unqualified-p7.html" id="gentle-introduction-to-unqualified-p7.html" media-type="application/xhtml+xml" />
@@ -34,13 +35,13 @@
   <spine toc="ncx">
     <itemref idref="title.html" />
     <itemref idref="gentle-introduction-to-unqualified-p1.html" />
-    <itemref idref="gentle-introduction-to-unqualified_15-p2.html" />
-    <itemref idref="gentle-introduction-to-unqualified_22-p3.html" />
-    <itemref idref="gentle-introduction-to-unqualified_29-p4.html" />
+    <itemref idref="gentle-introduction-to-unqualified-p2.html" />
+    <itemref idref="gentle-introduction-to-unqualified-p3.html" />
+    <itemref idref="gentle-introduction-to-unqualified-p4.html" />
     <itemref idref="gentle-introduction-to-unqualified-p5.html" />
-    <itemref idref="gentle-introduction-to-unqualified_19-p6.html" />
+    <itemref idref="gentle-introduction-to-unqualified-p6.html" />
     <itemref idref="gentle-introduction-to-unqualified-p7.html" />
-    <itemref idref="gentle-introduction-to-unqualified_15-p8.html" />
+    <itemref idref="gentle-introduction-to-unqualified-p8.html" />
     <itemref idref="gentle-introduction-to-unqualified-p9.html" />
     <itemref idref="gentle-introduction-to-unqualified-p10.html" />
     <itemref idref="gentle-introduction-to-unqualified-p11.html" />
