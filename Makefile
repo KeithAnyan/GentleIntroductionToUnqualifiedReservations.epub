@@ -1,5 +1,5 @@
 
-ALL : GentleIntroductionToUnqualifiedReservations.epub GentleIntroductionToUnqualifiedReservations.mobi GentleIntroductionToUnqualifiedReservations.pdf
+all: GentleIntroductionToUnqualifiedReservations.epub GentleIntroductionToUnqualifiedReservations.mobi GentleIntroductionToUnqualifiedReservations.pdf GentleIntroductionToUnqualifiedReservations.md
 
 GentleIntroductionToUnqualifiedReservations.epub: 
 	rm -f GentleIntroductionToUnqualifiedReservations.epub
@@ -14,3 +14,8 @@ GentleIntroductionToUnqualifiedReservations.pdf: GentleIntroductionToUnqualified
 	rm -f GentleIntroductionToUnqualifiedReservations.pdf
 	ebook-convert GentleIntroductionToUnqualifiedReservations.epub GentleIntroductionToUnqualifiedReservations.pdf --embed-all-fonts --margin-left 24 --margin-top 24 --margin-right 24 --margin-bottom 24 --minimum-line-height 160
 
+GentleIntroductionToUnqualifiedReservations.md: GentleIntroductionToUnqualifiedReservations.epub
+	rm -f GentleIntroductionToUnqualifiedReservations.md
+	ebook-convert GentleIntroductionToUnqualifiedReservations.epub GentleIntroductionToUnqualifiedReservations.txt --txt-output-formatting=markdown --keep-links --keep-image-references
+	cp -f GentleIntroductionToUnqualifiedReservations.txt GentleIntroductionToUnqualifiedReservations.md
+	rm -f GentleIntroductionToUnqualifiedReservations.txt
